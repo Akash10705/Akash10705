@@ -6,11 +6,11 @@ Electrical and Electronics Engineering undergraduate at **SASTRA Deemed Universi
 
 ## About Me
 
-- 🎓 B.Tech in Electrical and Electronics Engineering (Smart Grid & EV)
-- ⚡ Interested in Power Electronics and Power Systems
-- 🔌 Experience with PCB Design and Embedded Systems
-- 📊 Working with MATLAB/Simulink and OpenDSS
-- 🌱 Currently improving my programming and engineering skills
+-  B.Tech in Electrical and Electronics Engineering (Smart Grid & EV)
+-  Interested in Power Electronics and Power Systems
+-  Experience with PCB Design and Embedded Systems
+-  Working with MATLAB/Simulink and OpenDSS
+-  Currently improving my programming and engineering skills
 
 ---
 
