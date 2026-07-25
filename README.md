@@ -2,8 +2,6 @@
 
 Electrical and Electronics Engineering undergraduate at **SASTRA Deemed University**, specializing in **Smart Grid & EV Systems**. I am interested in Power Electronics, Power Systems, Embedded Systems, and PCB Design, with hands-on experience in hardware development and simulation.
 
-
-
 ## About Me
 
 -  B.Tech in Electrical and Electronics Engineering (Smart Grid & EV)
@@ -12,17 +10,19 @@ Electrical and Electronics Engineering undergraduate at **SASTRA Deemed Universi
 -  Working with MATLAB/Simulink and OpenDSS
 -  Currently improving my programming and engineering skills
 
-
-
 ## Technical Skills
 
+### Domain Knowledge
+- Power Electronics
+- Power Systems
+  
+### PCB Design
+- KiCad (1 to 4-layer PCB Layouts)
+  
 ### Programming
 - C
 - C++
 - Python
-
-### PCB Design
-- KiCad (1 to 4-layer PCB Layouts)
 
 ### Simulation
 - MATLAB / Simulink
@@ -36,12 +36,6 @@ Electrical and Electronics Engineering undergraduate at **SASTRA Deemed Universi
 - Code Composer Studio
 - STM32CubeIDE
 - LaTeX / Overleaf
-
-### Domain Knowledge
-- Power Electronics
-- Power Systems
-
-
 
 ## Projects
 
