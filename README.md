@@ -1,4 +1,4 @@
-# Hi, I'm Akash S 👋
+# Hi, I'm Akash S 
 
 Electrical and Electronics Engineering undergraduate at **SASTRA Deemed University**, specializing in **Smart Grid & EV Systems**. I am interested in Power Electronics, Power Systems, Embedded Systems, and PCB Design, with hands-on experience in hardware development and simulation.
 
