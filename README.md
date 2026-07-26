@@ -1,6 +1,6 @@
 # Hi, I'm Akash S 
 
-Electrical and Electronics Engineering student at **SASTRA Deemed University**, specializing in **Smart Grid & EV Systems**. Aspired to work in Power Electronics, Power Systems, and PCB Design projects with hands-on experience in hardware development and simulation.
+Electrical and Electronics Engineering student at **SASTRA Deemed University**, **Thanjavur**, specializing in **Smart Grid & EV Systems**. Aspired to work in Power Electronics, Power Systems, and PCB Design projects with hands-on experience in hardware development and simulation.
 
 ## About Me
 
