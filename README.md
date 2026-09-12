@@ -1,7 +1,6 @@
 # AKASH S
-
-⚡ **Electrical and Electronics Engineering Student** *(Specialization in Smart Grid and Electric Vehicles)*  
-🏫 **SASTRA Deemed University**, Thanjavur  
+ **Electrical and Electronics Engineering Student** *(Specialization in Smart Grid and Electric Vehicles)*  
+ **SASTRA Deemed University**, Thanjavur  
 
 📞 +91 7904196060 | 📧 [127159004@sastra.ac.in](mailto:127159004@sastra.ac.in) | 💼 [LinkedIn](https://linkedin.com/in/akash-s-47462a288) | 🐙 [GitHub](https://github.com/Akash10705)
 
@@ -17,13 +16,13 @@ EEE undergraduate specializing in Smart Grid and Electric Vehicles with hands-on
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Programming** | C, C++, Python, VS Code, Git, GitHub |
+| **Programming** | C, C++, Python, VS Code, Git, GitHub, MySQL |
 | **Engineering Simulation** | MATLAB / Simulink, OpenDSS |
 | **Power Electronics** | DC–DC Converters, Rectifiers, Inverters, PWM, Power Converter Modeling, Basic Control Systems |
-| **Embedded Systems** | TI C2000 Series, STM32, Code Composer Studio, STM32CubeIDE |
+| **Embedded Softwares & Tools** | TI C2000 Series, STM32, Code Composer Studio, STM32CubeIDE |
 | **Communication Protocols** | Basic CAN, UART, SPI, I²C |
-| **PCB & Hardware Design** | KiCad, Schematic Design, PCB Routing (1–4 Layer), Hardware Bring-up |
-| **Documentation** | LaTeX, Overleaf |
+| **PCB & Hardware Design** | KiCad, Schematic Design, PCB Routing (1–4 Layer), 1-layer Hardware Bring-up |
+| **Documentation** | LaTeX, Overleaf, MS-Excel, word, Powerpoint |
 
 ---
 
