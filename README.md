@@ -2,7 +2,7 @@
  **Electrical and Electronics Engineering Student** *(Specialization in Smart Grid and Electric Vehicles)*  
  **SASTRA Deemed University**, Thanjavur  
 
-📞 +91 7904196060 | 📧 [127159004@sastra.ac.in](mailto:127159004@sastra.ac.in) | 💼 [LinkedIn](https://linkedin.com/in/akash-s-47462a288) | 🐙 [GitHub](https://github.com/Akash10705)
+📞 +91 7904196060 | 📧 [127159004@sastra.ac.in](mailto:127159004@sastra.ac.in) | 💼 [LinkedIn](https://linkedin.com/in/akash-s-47462a288) | 
 
 ---
 
