@@ -1,5 +1,5 @@
 
-# S AKASH
+# S Akash
 
 **Electrical and Electronics Engineering Student**  
 *Specialization in Smart Grid & Electric Vehicles*  
