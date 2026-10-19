@@ -1,93 +1,100 @@
-# AKASH S
- **Electrical and Electronics Engineering Student** *(Specialization in Smart Grid and Electric Vehicles)*  
- **SASTRA Deemed University**, Thanjavur  
 
-📞 +91 7904196060 | 📧 [127159004@sastra.ac.in](mailto:127159004@sastra.ac.in) | 💼 [LinkedIn](https://linkedin.com/in/akash-s-47462a288) | 
+# S AKASH
 
----
+**Electrical and Electronics Engineering Student**  
+*Specialization in Smart Grid & Electric Vehicles*  
+SASTRA Deemed University, Thanjavur
 
-### Profile
-
-EEE undergraduate specializing in Smart Grid and Electric Vehicles with hands-on experience through academic and technical projects. Knowledgeable in **C, C++, Python, MATLAB/Simulink**, and hardware development. Focused on applying programming and problem-solving skills to technology-driven projects and power electronics systems.
+📧 [Email](mailto:127159004@sastra.ac.in) | 💼 [LinkedIn](https://linkedin.com/in/akash-s-47462a288) | 💻 [GitHub](https://github.com/Akash10705)
 
 ---
 
-### Technical Skills
+## Profile
+
+Electrical and Electronics Engineering undergraduate specializing in Smart Grid and Electric Vehicles. Interested in power electronics, circuit design, PCB development, and hardware testing. Hands-on experience with power converters, microcontrollers, MATLAB/Simulink simulations, and electrical distribution system analysis.
+
+---
+
+## Technical Skills
 
 | Category | Skills & Tools |
-| :--- | :--- |
-| **Programming** | C, C++, Python, VS Code, Git, GitHub, MySQL |
-| **Engineering Simulation** | MATLAB / Simulink, OpenDSS |
-| **Power Electronics** | DC–DC Converters, Rectifiers, Inverters, PWM, Power Converter Modeling, Basic Control Systems |
-| **Embedded Softwares & Tools** | TI C2000 Series, STM32, Code Composer Studio, STM32CubeIDE |
-| **Communication Protocols** | Basic CAN, UART, SPI, I²C |
-| **PCB & Hardware Design** | KiCad, Schematic Design, PCB Routing (1–4 Layer), 1-layer Hardware Bring-up |
-| **Documentation** | LaTeX, Overleaf, MS-Excel, word, Powerpoint |
+|---|---|
+| Electronics | Analog and Digital Electronics, Circuit Analysis, Power Electronics, Microcontrollers |
+| PCB & Hardware | KiCad, Schematic Design, PCB Layout and Routing, Circuit Assembly, Hardware Interfacing, Testing |
+| Simulation | MATLAB/Simulink, Power Electronics Simulation, Power System Analysis |
+| Embedded Tools | TI C2000 F280049C, STM32, Code Composer Studio (CCS) |
+| Programming | Basic C/C++, Python |
+| Communication Protocols | Basic CAN, UART, SPI, I2C |
+| Automotive Simulation | Vector CANoe, CAPL |
 
 ---
 
-### Projects
+## Projects
 
-####  IEEE 13-Bus Distribution System – PV Integration Study
-*Tools: OpenDSS, MATLAB/Simulink, PSO*
-* Modeled and analyzed the IEEE 13-bus unbalanced distribution system using OpenDSS load-flow simulation.
-* Evaluated bus voltage profiles and power losses under varying load conditions to identify candidate locations for distributed PV integration.
-* Investigated weak buses (**675, 680, and 611**) and evaluated system response with **10% active load PV penetration**.
-* Identified **Bus 675** as the optimal location for voltage profile improvement and power loss reduction.
-* Studied feeder power flow, voltage variation, and reverse real-power flow under high-generation conditions.
-* Evaluated PV allocation using Particle Swarm Optimization (PSO) concepts under dynamic load scenarios.
+### 1. PCB Design & Hardware Prototypes
+**Tools:** KiCad, TI C2000, STM32
 
-####  Three-Port Converter Design for PMSM Drive Control
-*Tools: MATLAB/Simulink, Power Electronics, Control Systems*
-* Modeled a multi-port non-isolated DC–DC converter integrated with an inverter and Permanent Magnet Synchronous Motor (PMSM).
-* Developed control logic to maintain DC-link voltage under changing motor operating conditions.
-* Analyzed coordinated power transfer between renewable supply, energy storage, and motor-side load.
+- Developed a 555 timer-based circuit to generate 50 Hz pulses for a push-pull inverter producing a 220 V square-wave output.
+- Reverse-engineered a dual-layer STM32 Blue Pill PCB using schematic capture, net tracing, and layout routing.
+- Replicated the four-layer TI C2000 F280049C LaunchPad PCB, including power and ground planes, component routing, and manufacturing file generation.
+- Replicated a 12 V to 5 V synchronous buck converter using F280049C ePWM, gate driving, MOSFET switching, and LC filtering.
+- Designed a regulated 5 V DC power supply using filtering and voltage regulation.
 
-####  PCB Design & Embedded Hardware Development
-*Tools: KiCad, TI C2000, STM32*
-* Designed schematics and PCB layouts (single, double, and multi-layer) using KiCad.
-* Built a synchronous buck converter power stage controlled via **TI C2000 F280049C** digital controller generating PWM signals.
-* Developed and tested a 4V regulated buck-converter power stage.
-* Designed controller-board schematics and PCB routing for STM32 and TI C2000 microcontrollers.
-* Built a 20V–220V inverter prototype using an IC 555 timer and transformer circuitry.
-* Executed complete hardware bring-up and physical validation of fabricated board designs.
+### 2. IEEE 13-Bus Distribution System Analysis & Solar PV Integration
+**Tool:** OpenDSS
 
-####  MATLAB / Simulink – Power Electronics Modeling
-*Tools: MATLAB/Simulink*
-* Developed dynamic simulation models for rectifiers, inverters, and DC–DC converters.
-* Analyzed voltage, current, and conversion characteristics under diverse operating conditions to validate theoretical performance.
+- Analyzed an unbalanced 13-bus electrical distribution system and studied phase-wise voltages and power losses.
+- Modeled residential, agricultural, commercial, and motor loads using 24-hour load profiles.
+- Identified weak buses based on voltage profiles, feeder structure, line impedance, and load distribution.
+- Studied the effects of shunt capacitors on reactive power support, voltage regulation, power factor, and feeder losses.
+- Integrated solar PV generation and analyzed voltage improvement and loss reduction over 24 hours.
+- Compared system performance under different load conditions, capacitor configurations, and PV integration scenarios.
 
----
+### 3. Power Electronics & CAN-Based Software Simulations
+**Tools:** MATLAB/Simulink, Vector CANoe, CAPL
 
-### Education
+- Simulated DC-DC converters, PWM control, and power conversion circuits using MATLAB/Simulink.
+- Developed a CAN-based vehicle seat safety simulation using Vector CANoe and CAPL.
+- Simulated communication between multiple electronic control units (ECUs) using the CAN protocol.
 
-* **B.Tech in Electrical and Electronics Engineering (Smart Grid & EV)**  
-  *SASTRA Deemed University, Thanjavur* | **CGPA: 7.6331** | *2023 – Present*
-* **12th Standard (HSC)**  
-  *St. Joseph Matriculation Higher Secondary School, Hosur* | **91.667%** | *2023*
-* **10th Standard (SSLC)**  
-  *St. Joseph Matriculation Higher Secondary School, Hosur* | **90.00%** | *2021*
+### 4. Three-Port DC-DC Converter for Electric Vehicles (Ongoing)
+**Tool:** MATLAB/Simulink
+
+- Modified an existing three-port DC-DC converter model for electric vehicle traction, battery storage, and auxiliary loads.
+- Adjusted converter components and duty cycles to meet target voltage and current requirements.
+- Integrated a Permanent Magnet Synchronous Motor (PMSM) with Field-Oriented Control (FOC).
+- Used Clarke and Park transformations to control motor performance and reduce torque and speed ripple.
 
 ---
 
-### Certifications
+## Education
 
-*  **NPTEL:** Power Electronics with Wide Band Gap Devices *(Elite Silver — IIT Mandi)*
-*  **MathWorks:** MATLAB Simulation Onramp
-*  **LinkedIn Learning:** Intermediate Python
-*  **Ministry of Heavy Industries & SASTRA:** PCB Design – Electronics Manufacturing
-*  **TCS iON:** Young Professional Course
+- **B.Tech in Electrical and Electronics Engineering (Smart Grid & EV)**  
+  SASTRA Deemed University, Thanjavur | **CGPA: 7.63** | 2023–Present
 
+- **Higher Secondary Education (12th Standard)**  
+  St. Joseph Matriculation Higher Secondary School, Hosur | **91.67%** | 2022–2023
 
-## Currently Learning
+---
 
-- Control Tuning of Switched Mode Power Converters
-- Smart Grid Technologies
+## Certifications
 
+- **NPTEL:** Power Electronics with Wide Bandgap Devices (Elite Silver), IIT Mandi
+- **Ministry of Heavy Industries & SASTRA:** PCB Design & Electronics Manufacturing
+- **MathWorks Academy:** MATLAB Simulation Onramp
+- **LinkedIn Learning:** Intermediate Python Programming
 
+---
 
-## Connect with Me 
+## Languages
 
+- English
+- Tamil
 
-- LinkedIn: https://linkedin.com/in/akash-s-47462a288
-- Email: 127159004@sastra.ac.in
+---
+
+## Connect with Me
+
+- **Email:** [127159004@sastra.ac.in](mailto:127159004@sastra.ac.in)
+- **LinkedIn:** [akash-s-47462a288](https://linkedin.com/in/akash-s-47462a288)
+- **GitHub:** [Akash10705](https://github.com/Akash10705)
