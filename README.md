@@ -5,8 +5,7 @@
 *Specialization in Smart Grid & Electric Vehicles*  
 SASTRA Deemed University, Thanjavur
 
-📧 [Email](mailto:127159004@sastra.ac.in) | 💼 [LinkedIn](https://linkedin.com/in/akash-s-47462a288) | 💻 [GitHub](https://github.com/Akash10705)
-
+📧 [Email](mailto:127159004@sastra.ac.in) | 💼 [LinkedIn](https://linkedin.com/in/akash-s-47462a288) |
 ---
 
 ## Profile
